@@ -1,7 +1,7 @@
 Team Members: Olivia Huang and Frank Weng
 
 # Project title
-Q: Give your project a nice title.
+NYCRoute
 
 # What and why?
 The software system that we would like to build this semester is an app that tracks NYC subways in real time and alerts the user when to leave in order to catch their subway on time. Subways are often delayed and while there are MTA apps that allow one to see subway schedules, we would like to facilitate the process of calculating the correct time to depart in order not to be late to one's destination.
