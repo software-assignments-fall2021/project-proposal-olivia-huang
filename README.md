@@ -1,3 +1,5 @@
+Team Members: Olivia Huang and Frank Weng
+
 # Project title
 Q: Give your project a nice title.
 
